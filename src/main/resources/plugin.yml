@@ -1,0 +1,4 @@
+name: CustomWorld
+version: ${project.version}
+main: com.darrime.main.Main
+api-version: 1.16

@@ -1,0 +1,4 @@
+name: CustomWorld
+version: 1.0-SNAPSHOT
+main: com.darrime.main.Main
+api-version: 1.16
